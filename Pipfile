@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 numpy = "*"
+advent-of-code-data = "*"
 
 [dev-packages]
 
